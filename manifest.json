@@ -1,1 +1,35 @@
+{
+  "name": "PragyaRoot",
+  "short_name": "PragyaRoot",
+  "description": "Class 10 Nepali & English guides, notes, and exercise solutions.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#D4AF37",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhN2EbcgeQbiuWuvPyl9c6ssl-HzO2Mt2LDFseIj0tLbRb-OUcmEK30J5pGwOv2abrRJ-B6MvuZhrVZcvDhFvTxpbpbGK7M2zr1UcOhwJgrzOUaGknqKgJQBkzHjOo9WmryTV3KYyawbjg0g2ovI-3sc37kjz3kuvNk2HLMiuQfmvYQa7DCit9v-eKL0QYE=s192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhN2EbcgeQbiuWuvPyl9c6ssl-HzO2Mt2LDFseIj0tLbRb-OUcmEK30J5pGwOv2abrRJ-B6MvuZhrVZcvDhFvTxpbpbGK7M2zr1UcOhwJgrzOUaGknqKgJQBkzHjOo9WmryTV3KYyawbjg0g2ovI-3sc37kjz3kuvNk2HLMiuQfmvYQa7DCit9v-eKL0QYE=s512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhN2EbcgeQbiuWuvPyl9c6ssl-HzO2Mt2LDFseIj0tLbRb-OUcmEK30J5pGwOv2abrRJ-B6MvuZhrVZcvDhFvTxpbpbGK7M2zr1UcOhwJgrzOUaGknqKgJQBkzHjOo9WmryTV3KYyawbjg0g2ovI-3sc37kjz3kuvNk2HLMiuQfmvYQa7DCit9v-eKL0QYE=s512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
 
